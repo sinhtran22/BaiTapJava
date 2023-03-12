@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author sinhi
+ *
+ */
+module DateClass {
+}

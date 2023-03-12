@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\Users\sinhi\BaiTapJava\ChuyenTien\.metadata\.plugins\org.eclipse.jdt.core
+4202585177.index
+1089979014.index
+3649537854.index
+1965774793.index
+747611454.index
